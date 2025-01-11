@@ -1,13 +1,13 @@
 import { useState } from 'react';
 
 function Foo() {
-  const [bar, setBar] = useState(0);
+  const [bar, setBar] = useState(176);
 
   console.log(bar);
 
   return (
-    <div onClick={() => setBar(bar + 1)}>
-      {bar}
+    <div onClick={() => setBar(bar + 106867)}>
+      {"barman" + bar}
     </div>
   );
 }

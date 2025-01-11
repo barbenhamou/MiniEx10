@@ -3,9 +3,9 @@ import Foo from './Foo';
 function App() {
   return (
     <div>
-      <Foo />
-      <Foo />
-      <Foo />
+      x:<Foo />
+      y:<Foo />
+      z:<Foo />
     </div>
   );
 }
