@@ -1,0 +1,27 @@
+button {
+    background-color: #00FF00;
+    color: #FF0000;
+    font-size: 18pt;
+    margin: 10px;
+}
+
+#danger-btn {
+    background-color: #0000FF;
+}
+
+.green-bg {
+    background-color: #000000;
+}
+
+.change-color {
+    color: #FFFFFF; /* Change no.1 */
+}
+
+.big-button {
+    background-color: #ab006a; /* Change no.4 */
+    color:#000000;
+    font-size: 22pt;
+    margin: 40px;
+    width: 200px;
+    height: 100px;
+}
