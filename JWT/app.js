@@ -38,4 +38,4 @@ const processLogin = (req, res) => {
 
 app.post('/login', processLogin)
 app.get('/', isLoggedIn, index)
-app.listen(3002)
+app.listen(3000)
